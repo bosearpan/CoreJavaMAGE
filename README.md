@@ -1,2 +1,2 @@
 # CoreJavaMAGE
-Core Java training Stuff
+Core Java training.
